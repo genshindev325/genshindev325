@@ -81,5 +81,4 @@ I had already built so many Websites with the mentioned skill.
 
 <div align="center"/>
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=Fullstack-WEB-Blockchain-Developer)
 
