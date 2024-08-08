@@ -62,7 +62,6 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
