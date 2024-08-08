@@ -71,10 +71,6 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
-<p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
-<img align="right" src="https://img.shields.io/github/followers/Fullstack-WEB-Blockchain-Developer?label=Follow&style=social" />
-</p>
 
 <br/>
 
