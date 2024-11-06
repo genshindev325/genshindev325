@@ -1,9 +1,6 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Fullstack-WEB-Blockchain-Developer&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/07416d83-c4b8-46c9-8194-9cdd8d1b4073"/>
-</p>
 
  ![](./profile-3d-contrib/profile-night-view.svg)
 
