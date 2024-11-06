@@ -15,15 +15,15 @@
 
   <br />
   
-Hi, I'm a Senior Full Stack Blockchain Developer, with outstanding experience in various fields, such as web and cryptocurrency.
+Hi, I'm a Senior Full Stack WEb and Blockchain Developer, with outstanding experience in various fields, such as web and cryptocurrency.
 
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js.
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Ethereum, Solana, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and Node/Express, Python/Django, and much more.
+I have developing sites using Python/Django, React, Nextjs, Laravel, WordPress, and Node/Express and much more.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React and Next.
+Especially I have rich experience with Django and the latest Javascript frameworks such as Node/Express, React and Next.
 
 I had already built so many Websites with the mentioned skill.
 
@@ -39,6 +39,7 @@ I had already built so many Websites with the mentioned skill.
 
 **Languages and Tools:**
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -48,7 +49,6 @@ I had already built so many Websites with the mentioned skill.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
